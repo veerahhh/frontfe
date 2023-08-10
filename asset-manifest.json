@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73e50062.css",
+    "main.js": "/static/js/main.3a8bcd96.js",
+    "static/media/Registered Successfully.svg": "/static/media/Registered Successfully.1e825d98bb35ff9cddd946d362fe33c3.svg",
+    "static/media/Login-Illustration.svg": "/static/media/Login-Illustration.09994d48b49d3fa391ad6da8bd5bd632.svg",
+    "static/media/PowerBi.png": "/static/media/PowerBi.649554e067794add29be.png",
+    "static/media/TenantRegisterImg.svg": "/static/media/TenantRegisterImg.233e34b83799c1cb2ce96c47e80c719b.svg",
+    "static/media/Decision-Minds-Logo.svg": "/static/media/Decision-Minds-Logo.c6bd2f0b5e4e24ded95c6151510fc455.svg",
+    "static/media/page-not-found.svg": "/static/media/page-not-found.da5dd402ab0c02353552898a098b8367.svg",
+    "static/media/Signup-Illustration.svg": "/static/media/Signup-Illustration.7c711cb6a2da22d8cfda135f6e243ae2.svg",
+    "static/media/CubeLoader.gif": "/static/media/CubeLoader.1c56ee8d70b610b2f532.gif",
+    "static/media/Google-Icon.png": "/static/media/Google-Icon.428f4c593b2d5c300dd1.png",
+    "static/media/DMX datahub.svg": "/static/media/DMX datahub.ce842c76768d902e66ee5ccae4091f57.svg",
+    "static/media/datahub white.svg": "/static/media/datahub white.842f86b8776d237aee6622207d848867.svg",
+    "static/media/mx white.svg": "/static/media/mx white.97b306b4238b3b65a18607c10af0b574.svg",
+    "static/media/Small DH logo 1.svg": "/static/media/Small DH logo 1.70b84c9e56cc7334f2d5ce83d339b6e6.svg",
+    "index.html": "/index.html",
+    "main.73e50062.css.map": "/static/css/main.73e50062.css.map",
+    "main.3a8bcd96.js.map": "/static/js/main.3a8bcd96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e50062.css",
+    "static/js/main.3a8bcd96.js"
+  ]
+}
